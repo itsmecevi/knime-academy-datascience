@@ -38,8 +38,11 @@ _____
   * Bar Charts
   
 * Machine Learning:
-  * 
-  * 
+  * Introduction to Decision Tree
+  * Buildung Decision Tree
+  * Decision Tree Workflow
+  * Intro to K-means Clustering
+  * K-means Clustering in KNIME
 
 _____
 
