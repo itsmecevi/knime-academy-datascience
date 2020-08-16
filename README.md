@@ -25,6 +25,8 @@ _____
 * Analytics
 * Visualization
 
+_____
+
 
 
 ### Practicing Data Science with KNIME
