@@ -22,8 +22,24 @@ _____
 
 * Data Access 
 * ETL
-* Analytics
-* Visualization
+* Data Manipulation & Visuallization:
+  * Intro to Data Manipulation in KNIME
+  * Rule Engine
+  * String Manipulation
+  * String Replacer
+  * String Splitting and Column Combining
+  * Column Resorter
+  * Type Conversion
+  * Database Operations
+  * Scatterplot
+  * Color Manager
+  * Line Plot
+  * Parallel Coordinate Plot
+  * Bar Charts
+  
+* Machine Learning:
+  * 
+  * 
 
 _____
 
