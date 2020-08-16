@@ -64,4 +64,4 @@ _____
 # Preferences :
 
 * [knime.com](https://www.knime.com/)
-* https://trello.com/b/fCiyw9I4/references
+* [https://trello.com/b/fCiyw9I4/references](https://trello.com/b/fCiyw9I4/references)
