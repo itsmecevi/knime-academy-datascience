@@ -1,5 +1,7 @@
 # knime-academy-datascience
 
+![knime-analytics-platform](https://user-images.githubusercontent.com/27078712/87846281-fe2c9280-c8f8-11ea-8133-911cb9cbb27b.png)
+
 <span>&#129311;</span> Cevi Herdian (**Knime Academic Alliance Partner**)  -> [itsmecevi.github.io](https://itsmecevi.github.io/) 
 
 <span>&#128202;</span> [About Knime Analytics](https://www.knime.com/about) 
@@ -11,6 +13,9 @@
 <span>&#128302;</span> Duration: 15 hours
 
 _____
+
+
+![knime-etl](https://user-images.githubusercontent.com/27078712/90319471-baae5e00-df62-11ea-80d0-f9c0897f3b01.png)
 
 
 ### Warming up
