@@ -20,6 +20,12 @@ _____
 
 ### Warming up
 
+* Data Access 
+* ETL
+* Analytics
+* Visualization
+
+
 
 ### Practicing Data Science with KNIME
 
