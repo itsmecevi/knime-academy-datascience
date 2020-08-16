@@ -10,6 +10,11 @@
 
 <span>&#128302;</span> Duration: 15 hours
 
+_____
+
+
+### Warming up
+
 
 ### Practicing Data Science with KNIME
 
